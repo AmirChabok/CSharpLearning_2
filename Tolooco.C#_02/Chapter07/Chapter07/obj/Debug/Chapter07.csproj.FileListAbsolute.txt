@@ -1,0 +1,24 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter07\Chapter07\bin\Debug\Chapter07.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter07\Chapter07\bin\Debug\Chapter07.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter07\Chapter07\bin\Debug\Chapter07.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter07\Chapter07\obj\Debug\Chapter07.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter07\Chapter07\obj\Debug\Chapter07.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter07\Chapter07\obj\Debug\Chapter07.pdb
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter07.Cwx121.com\Chapter07\Chapter07\bin\Debug\Chapter07.exe.config
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter07.Cwx121.com\Chapter07\Chapter07\obj\Debug\Chapter07.exe
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter07.Cwx121.com\Chapter07\Chapter07\obj\Debug\Chapter07.pdb
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter07.Cwx121.com\Chapter07\Chapter07\bin\Debug\Chapter07.exe
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter07.Cwx121.com\Chapter07\Chapter07\bin\Debug\Chapter07.pdb
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter07.Cwx121.com\Chapter07\Chapter07\obj\Debug\Chapter07.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Sessions\Chapter07\Chapter07\bin\Debug\Chapter07.exe.config
+D:\Programming\C#\Sessions\Chapter07\Chapter07\obj\Debug\Chapter07.exe
+D:\Programming\C#\Sessions\Chapter07\Chapter07\obj\Debug\Chapter07.pdb
+M:\C#\Sessions\Chapter07\Chapter07\bin\Debug\Chapter07.exe.config
+M:\C#\Sessions\Chapter07\Chapter07\obj\Debug\Chapter07.exe
+M:\C#\Sessions\Chapter07\Chapter07\obj\Debug\Chapter07.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter07\Chapter07\bin\Debug\Chapter07.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter07\Chapter07\obj\Debug\Chapter07.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter07\Chapter07\obj\Debug\Chapter07.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter07\Chapter07\bin\Debug\Chapter07.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter07\Chapter07\bin\Debug\Chapter07.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter07\Chapter07\obj\Debug\Chapter07.csprojResolveAssemblyReference.cache

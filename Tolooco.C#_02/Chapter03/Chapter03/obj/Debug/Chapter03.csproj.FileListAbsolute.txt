@@ -1,0 +1,30 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter03\Chapter03\bin\Debug\Chapter03.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter03\Chapter03\bin\Debug\Chapter03.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter03\Chapter03\bin\Debug\Chapter03.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter03\Chapter03\obj\Debug\Chapter03.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter03\Chapter03\obj\Debug\Chapter03.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter03\Chapter03\obj\Debug\Chapter03.pdb
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter03\Chapter03\Chapter03\bin\Debug\Chapter03.exe.config
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter03\Chapter03\Chapter03\obj\Debug\Chapter03.exe
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter03\Chapter03\Chapter03\obj\Debug\Chapter03.pdb
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter03\Chapter03\Chapter03\bin\Debug\Chapter03.exe
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter03\Chapter03\Chapter03\bin\Debug\Chapter03.pdb
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter03\Chapter03\Chapter03\obj\Debug\Chapter03.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\C#\Sessions\Chapter03\Chapter03\bin\Debug\Chapter03.exe.config
+C:\Users\Amir\Desktop\C#\Sessions\Chapter03\Chapter03\obj\Debug\Chapter03.exe
+C:\Users\Amir\Desktop\C#\Sessions\Chapter03\Chapter03\obj\Debug\Chapter03.pdb
+C:\Users\Amir\Desktop\C#\Sessions\Chapter03\Chapter03\bin\Debug\Chapter03.exe
+C:\Users\Amir\Desktop\C#\Sessions\Chapter03\Chapter03\bin\Debug\Chapter03.pdb
+C:\Users\Amir\Desktop\C#\Sessions\Chapter03\Chapter03\obj\Debug\Chapter03.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Sessions\Chapter03\Chapter03\bin\Debug\Chapter03.exe.config
+D:\Programming\C#\Sessions\Chapter03\Chapter03\obj\Debug\Chapter03.exe
+D:\Programming\C#\Sessions\Chapter03\Chapter03\obj\Debug\Chapter03.pdb
+M:\C#\Sessions\Chapter03\Chapter03\bin\Debug\Chapter03.exe.config
+M:\C#\Sessions\Chapter03\Chapter03\obj\Debug\Chapter03.exe
+M:\C#\Sessions\Chapter03\Chapter03\obj\Debug\Chapter03.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter03\Chapter03\bin\Debug\Chapter03.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter03\Chapter03\obj\Debug\Chapter03.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter03\Chapter03\obj\Debug\Chapter03.pdb
+D:\Programming\C#\Sessions02\Chapter03\Chapter03\bin\Debug\Chapter03.exe.config
+D:\Programming\C#\Sessions02\Chapter03\Chapter03\obj\Debug\Chapter03.exe
+D:\Programming\C#\Sessions02\Chapter03\Chapter03\obj\Debug\Chapter03.pdb

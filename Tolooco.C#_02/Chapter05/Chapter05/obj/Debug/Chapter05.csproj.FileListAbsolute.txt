@@ -1,0 +1,21 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter05\Chapter05\bin\Debug\Chapter05.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter05\Chapter05\bin\Debug\Chapter05.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter05\Chapter05\bin\Debug\Chapter05.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter05\Chapter05\obj\Debug\Chapter05.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter05\Chapter05\obj\Debug\Chapter05.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter05\Chapter05\obj\Debug\Chapter05.pdb
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter05\Chapter05\Chapter05\bin\Debug\Chapter05.exe.config
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter05\Chapter05\Chapter05\obj\Debug\Chapter05.exe
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter05\Chapter05\Chapter05\obj\Debug\Chapter05.pdb
+D:\Programming\C#\Sessions\Chapter05\Chapter05\bin\Debug\Chapter05.exe.config
+D:\Programming\C#\Sessions\Chapter05\Chapter05\obj\Debug\Chapter05.exe
+D:\Programming\C#\Sessions\Chapter05\Chapter05\obj\Debug\Chapter05.pdb
+M:\C#\Sessions\Chapter05\Chapter05\bin\Debug\Chapter05.exe.config
+M:\C#\Sessions\Chapter05\Chapter05\obj\Debug\Chapter05.exe
+M:\C#\Sessions\Chapter05\Chapter05\obj\Debug\Chapter05.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter05\Chapter05\bin\Debug\Chapter05.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter05\Chapter05\obj\Debug\Chapter05.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter05\Chapter05\obj\Debug\Chapter05.pdb
+D:\Programming\C#\Sessions02\Chapter05\Chapter05\bin\Debug\Chapter05.exe.config
+D:\Programming\C#\Sessions02\Chapter05\Chapter05\obj\Debug\Chapter05.exe
+D:\Programming\C#\Sessions02\Chapter05\Chapter05\obj\Debug\Chapter05.pdb

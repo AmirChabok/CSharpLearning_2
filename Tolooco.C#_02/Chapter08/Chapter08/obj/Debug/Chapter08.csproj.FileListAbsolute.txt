@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter08\Chapter08\bin\Debug\Chapter08.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter08\Chapter08\bin\Debug\Chapter08.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter08\Chapter08\bin\Debug\Chapter08.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter08\Chapter08\obj\Debug\Chapter08.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter08\Chapter08\obj\Debug\Chapter08.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter08\Chapter08\obj\Debug\Chapter08.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter08\Chapter08\bin\Debug\Chapter08.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter08\Chapter08\obj\Debug\Chapter08.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter08\Chapter08\obj\Debug\Chapter08.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter08\Chapter08\bin\Debug\Chapter08.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter08\Chapter08\obj\Debug\Chapter08.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter08\Chapter08\obj\Debug\Chapter08.pdb

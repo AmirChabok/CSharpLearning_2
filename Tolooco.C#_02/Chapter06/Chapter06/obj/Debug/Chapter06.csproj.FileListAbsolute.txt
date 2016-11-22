@@ -1,0 +1,24 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter06\Chapter06\bin\Debug\Chapter06.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter06\Chapter06\bin\Debug\Chapter06.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter06\Chapter06\bin\Debug\Chapter06.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter06\Chapter06\obj\Debug\Chapter06.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter06\Chapter06\obj\Debug\Chapter06.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter06\Chapter06\obj\Debug\Chapter06.pdb
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter06.Cwx121.com\Chapter06\Chapter06\bin\Debug\Chapter06.exe.config
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter06.Cwx121.com\Chapter06\Chapter06\obj\Debug\Chapter06.exe
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter06.Cwx121.com\Chapter06\Chapter06\obj\Debug\Chapter06.pdb
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter06.Cwx121.com\Chapter06\Chapter06\bin\Debug\Chapter06.exe
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter06.Cwx121.com\Chapter06\Chapter06\bin\Debug\Chapter06.pdb
+C:\Users\Administrator\Documents\Camtasia Studio\Chapter\Chapter06.Cwx121.com\Chapter06\Chapter06\obj\Debug\Chapter06.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Sessions\Chapter06\Chapter06\bin\Debug\Chapter06.exe.config
+D:\Programming\C#\Sessions\Chapter06\Chapter06\obj\Debug\Chapter06.exe
+D:\Programming\C#\Sessions\Chapter06\Chapter06\obj\Debug\Chapter06.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter06\Chapter06\bin\Debug\Chapter06.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter06\Chapter06\obj\Debug\Chapter06.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter06\Chapter06\obj\Debug\Chapter06.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter06\Chapter06\bin\Debug\Chapter06.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter06\Chapter06\bin\Debug\Chapter06.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter06\Chapter06\obj\Debug\Chapter06.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Sessions02\Chapter06\Chapter06\bin\Debug\Chapter06.exe.config
+D:\Programming\C#\Sessions02\Chapter06\Chapter06\obj\Debug\Chapter06.exe
+D:\Programming\C#\Sessions02\Chapter06\Chapter06\obj\Debug\Chapter06.pdb

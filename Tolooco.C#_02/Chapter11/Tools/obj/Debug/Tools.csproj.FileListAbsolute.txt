@@ -1,0 +1,5 @@
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter11.Cwx121.com\Chapter11\Tools\bin\Debug\Tools.dll
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter11.Cwx121.com\Chapter11\Tools\bin\Debug\Tools.pdb
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter11.Cwx121.com\Chapter11\Tools\obj\Debug\Tools.dll
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter11.Cwx121.com\Chapter11\Tools\obj\Debug\Tools.pdb
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter11.Cwx121.com\Chapter11\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache

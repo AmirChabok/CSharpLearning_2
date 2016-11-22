@@ -1,0 +1,29 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter01\Chapter01\Chapter01\bin\Debug\Chapter01.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter01\Chapter01\Chapter01\bin\Debug\Chapter01.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter01\Chapter01\Chapter01\bin\Debug\Chapter01.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter01\Chapter01\Chapter01\obj\Debug\Chapter01.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter01\Chapter01\Chapter01\obj\Debug\Chapter01.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter01\Chapter01\Chapter01\obj\Debug\Chapter01.pdb
+I:\Programming\MyProjects\92\Documention\C#\Console\Mp4\Chapter\Chapter01_02.Cwx121.com\Chapter01\Chapter01\Chapter01\bin\Debug\Chapter01.exe.config
+I:\Programming\MyProjects\92\Documention\C#\Console\Mp4\Chapter\Chapter01_02.Cwx121.com\Chapter01\Chapter01\Chapter01\obj\Debug\Chapter01.exe
+I:\Programming\MyProjects\92\Documention\C#\Console\Mp4\Chapter\Chapter01_02.Cwx121.com\Chapter01\Chapter01\Chapter01\obj\Debug\Chapter01.pdb
+I:\Programming\MyProjects\92\Documention\C#\Console\Mp4\Chapter\Chapter01_02.Cwx121.com\Chapter01\Chapter01\Chapter01\bin\Debug\Chapter01.exe
+I:\Programming\MyProjects\92\Documention\C#\Console\Mp4\Chapter\Chapter01_02.Cwx121.com\Chapter01\Chapter01\Chapter01\bin\Debug\Chapter01.pdb
+I:\Programming\MyProjects\92\Documention\C#\Console\Mp4\Chapter\Chapter01_02.Cwx121.com\Chapter01\Chapter01\Chapter01\obj\Debug\Chapter01.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Sessions\Chapter01\Chapter01\bin\Debug\Chapter01.exe.config
+D:\Programming\C#\Sessions\Chapter01\Chapter01\obj\Debug\Chapter01.exe
+D:\Programming\C#\Sessions\Chapter01\Chapter01\obj\Debug\Chapter01.pdb
+D:\Programming\C#\Sessions\Chapter01\Chapter01\bin\Debug\Chapter01.exe
+D:\Programming\C#\Sessions\Chapter01\Chapter01\bin\Debug\Chapter01.pdb
+D:\Programming\C#\Sessions\Chapter01\Chapter01\obj\Debug\Chapter01.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Sessions\Chapter01\Chapter01\bin\Debug\Chapter01.exe.CodeAnalysisLog.xml
+D:\Programming\C#\Sessions\Chapter01\Chapter01\bin\Debug\Chapter01.exe.lastcodeanalysissucceeded
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter01\Chapter01\bin\Debug\Chapter01.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter01\Chapter01\obj\Debug\Chapter01.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter01\Chapter01\obj\Debug\Chapter01.pdb
+D:\Programming\C#\Sessions02\Chapter01\Chapter01\bin\Debug\Chapter01.exe.config
+D:\Programming\C#\Sessions02\Chapter01\Chapter01\obj\Debug\Chapter01.exe
+D:\Programming\C#\Sessions02\Chapter01\Chapter01\obj\Debug\Chapter01.pdb
+D:\Programming\C#\Sessions02\Chapter01\Chapter01\bin\Debug\Chapter01.exe
+D:\Programming\C#\Sessions02\Chapter01\Chapter01\bin\Debug\Chapter01.pdb
+D:\Programming\C#\Sessions02\Chapter01\Chapter01\obj\Debug\Chapter01.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter11.Cwx121.com\Chapter11\Chapter11_01\obj\Debug\Chapter11_01.csprojResolveAssemblyReference.cache
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter11.Cwx121.com\Chapter11\Chapter11_01\bin\Debug\Chapter11_01.exe.config
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter11.Cwx121.com\Chapter11\Chapter11_01\bin\Debug\Chapter11_01.exe
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter11.Cwx121.com\Chapter11\Chapter11_01\bin\Debug\Chapter11_01.pdb
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter11.Cwx121.com\Chapter11\Chapter11_01\bin\Debug\Tools.dll
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter11.Cwx121.com\Chapter11\Chapter11_01\bin\Debug\Tools.pdb
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter11.Cwx121.com\Chapter11\Chapter11_01\obj\Debug\Chapter11_01.exe
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter11.Cwx121.com\Chapter11\Chapter11_01\obj\Debug\Chapter11_01.pdb

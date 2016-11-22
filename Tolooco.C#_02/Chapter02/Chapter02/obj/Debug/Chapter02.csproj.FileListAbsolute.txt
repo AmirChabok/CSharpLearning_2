@@ -1,0 +1,21 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter02\Chapter02\bin\Debug\Chapter02.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter02\Chapter02\bin\Debug\Chapter02.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter02\Chapter02\bin\Debug\Chapter02.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter02\Chapter02\obj\Debug\Chapter02.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter02\Chapter02\obj\Debug\Chapter02.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter02\Chapter02\obj\Debug\Chapter02.pdb
+C:\Users\Amir\Desktop\C#\Sessions\Chapter02\Chapter02\bin\Debug\Chapter02.exe.config
+C:\Users\Amir\Desktop\C#\Sessions\Chapter02\Chapter02\obj\Debug\Chapter02.exe
+C:\Users\Amir\Desktop\C#\Sessions\Chapter02\Chapter02\obj\Debug\Chapter02.pdb
+D:\Programming\C#\Sessions\Chapter02\Chapter02\bin\Debug\Chapter02.exe.config
+D:\Programming\C#\Sessions\Chapter02\Chapter02\obj\Debug\Chapter02.exe
+D:\Programming\C#\Sessions\Chapter02\Chapter02\obj\Debug\Chapter02.pdb
+D:\Programming\C#\Sessions\Chapter02\Chapter02\bin\Debug\Chapter02.exe
+D:\Programming\C#\Sessions\Chapter02\Chapter02\bin\Debug\Chapter02.pdb
+D:\Programming\C#\Sessions\Chapter02\Chapter02\obj\Debug\Chapter02.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter02\Chapter02\bin\Debug\Chapter02.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter02\Chapter02\obj\Debug\Chapter02.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter02\Chapter02\obj\Debug\Chapter02.pdb
+D:\Programming\C#\Sessions02\Chapter02\Chapter02\bin\Debug\Chapter02.exe.config
+D:\Programming\C#\Sessions02\Chapter02\Chapter02\obj\Debug\Chapter02.exe
+D:\Programming\C#\Sessions02\Chapter02\Chapter02\obj\Debug\Chapter02.pdb

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Persons>
+	<Person>
+		<Name>Hosein</Name>
+		<Family>Sadeghi</Family>
+	</Person>
+	<Person>
+		<Name>Ali</Name>
+		<Family>Jahanshiri</Family>
+	</Person>
+</Persons> 

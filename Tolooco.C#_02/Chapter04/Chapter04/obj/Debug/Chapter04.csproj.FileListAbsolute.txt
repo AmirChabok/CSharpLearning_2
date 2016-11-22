@@ -1,0 +1,15 @@
+c:\users\amir\documents\visual studio 2013\Projects\Chapter04\Chapter04\bin\Debug\Chapter04.exe.config
+c:\users\amir\documents\visual studio 2013\Projects\Chapter04\Chapter04\bin\Debug\Chapter04.exe
+c:\users\amir\documents\visual studio 2013\Projects\Chapter04\Chapter04\bin\Debug\Chapter04.pdb
+c:\users\amir\documents\visual studio 2013\Projects\Chapter04\Chapter04\obj\Debug\Chapter04.csprojResolveAssemblyReference.cache
+c:\users\amir\documents\visual studio 2013\Projects\Chapter04\Chapter04\obj\Debug\Chapter04.exe
+c:\users\amir\documents\visual studio 2013\Projects\Chapter04\Chapter04\obj\Debug\Chapter04.pdb
+D:\Programming\C#\Sessions\Chapter04\Chapter04\bin\Debug\Chapter04.exe.config
+D:\Programming\C#\Sessions\Chapter04\Chapter04\obj\Debug\Chapter04.exe
+D:\Programming\C#\Sessions\Chapter04\Chapter04\obj\Debug\Chapter04.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter04\Chapter04\bin\Debug\Chapter04.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter04\Chapter04\obj\Debug\Chapter04.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter04\Chapter04\obj\Debug\Chapter04.pdb
+D:\Programming\C#\Sessions02\Chapter04\Chapter04\bin\Debug\Chapter04.exe.config
+D:\Programming\C#\Sessions02\Chapter04\Chapter04\obj\Debug\Chapter04.exe
+D:\Programming\C#\Sessions02\Chapter04\Chapter04\obj\Debug\Chapter04.pdb

@@ -1,0 +1,18 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter12\Chapter12\bin\Debug\Chapter12.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter12\Chapter12\bin\Debug\Chapter12.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter12\Chapter12\bin\Debug\Chapter12.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter12\Chapter12\obj\Debug\Chapter12.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter12\Chapter12\obj\Debug\Chapter12.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter12\Chapter12\obj\Debug\Chapter12.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter12\Chapter12\bin\Debug\Chapter12.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter12\Chapter12\obj\Debug\Chapter12.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter12\Chapter12\obj\Debug\Chapter12.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter12\Chapter12\bin\Debug\Chapter12.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter12\Chapter12\bin\Debug\Chapter12.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter12\Chapter12\obj\Debug\Chapter12.csprojResolveAssemblyReference.cache
+M:\C#\Sessions\Chapter12\Chapter12\bin\Debug\Chapter12.exe.config
+M:\C#\Sessions\Chapter12\Chapter12\obj\Debug\Chapter12.exe
+M:\C#\Sessions\Chapter12\Chapter12\obj\Debug\Chapter12.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter12\Chapter12\bin\Debug\Chapter12.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter12\Chapter12\obj\Debug\Chapter12.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter12\Chapter12\obj\Debug\Chapter12.pdb

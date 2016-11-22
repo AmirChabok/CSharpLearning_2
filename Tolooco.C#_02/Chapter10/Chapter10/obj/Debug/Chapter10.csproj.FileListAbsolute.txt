@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter10\Chapter10\bin\Debug\Chapter10.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter10\Chapter10\bin\Debug\Chapter10.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter10\Chapter10\bin\Debug\Chapter10.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter10\Chapter10\obj\Debug\Chapter10.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter10\Chapter10\obj\Debug\Chapter10.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter10\Chapter10\obj\Debug\Chapter10.pdb
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter10.Cwx121.com\Chapter10\Chapter10\bin\Debug\Chapter10.exe.config
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter10.Cwx121.com\Chapter10\Chapter10\bin\Debug\Chapter10.exe
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter10.Cwx121.com\Chapter10\Chapter10\bin\Debug\Chapter10.pdb
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter10.Cwx121.com\Chapter10\Chapter10\obj\Debug\Chapter10.csprojResolveAssemblyReference.cache
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter10.Cwx121.com\Chapter10\Chapter10\obj\Debug\Chapter10.exe
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter10.Cwx121.com\Chapter10\Chapter10\obj\Debug\Chapter10.pdb

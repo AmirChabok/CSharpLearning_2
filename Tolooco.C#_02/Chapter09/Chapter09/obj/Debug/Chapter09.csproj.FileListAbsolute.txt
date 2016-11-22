@@ -1,0 +1,21 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter09\Chapter09\bin\Debug\Chapter09.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter09\Chapter09\bin\Debug\Chapter09.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter09\Chapter09\bin\Debug\Chapter09.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter09\Chapter09\obj\Debug\Chapter09.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter09\Chapter09\obj\Debug\Chapter09.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Chapters\Chapter09\Chapter09\obj\Debug\Chapter09.pdb
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter09.Cwx121.com\Chapter09\Chapter09\bin\Debug\Chapter09.exe.config
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter09.Cwx121.com\Chapter09\Chapter09\obj\Debug\Chapter09.exe
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter09.Cwx121.com\Chapter09\Chapter09\obj\Debug\Chapter09.pdb
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter09.Cwx121.com\Chapter09\Chapter09\bin\Debug\Chapter09.exe
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter09.Cwx121.com\Chapter09\Chapter09\bin\Debug\Chapter09.pdb
+D:\Amozesh\Projects\MyProjects\92\C#\Console\Mp4\Chapter\Chapter09.Cwx121.com\Chapter09\Chapter09\obj\Debug\Chapter09.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter09\Chapter09\bin\Debug\Chapter09.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter09\Chapter09\obj\Debug\Chapter09.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter09\Chapter09\obj\Debug\Chapter09.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter09\Chapter09\bin\Debug\Chapter09.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter09\Chapter09\bin\Debug\Chapter09.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions\Chapter09\Chapter09\obj\Debug\Chapter09.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter09\Chapter09\bin\Debug\Chapter09.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter09\Chapter09\obj\Debug\Chapter09.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions02\Chapter09\Chapter09\obj\Debug\Chapter09.pdb
